@@ -1,5 +1,5 @@
 # **Droid Toolkit**
-> A complete toolkit for Android Hacking
+> A complete toolkit for Android Forensics
 
 **Features**
  - Remove Password
@@ -16,9 +16,11 @@
  - Data Backup
  - Data Sync
 
-![screenshot1](https://a.fsdn.com/con/app/proj/droidtoolkit/screenshots/droid_tkit.png)
+![image](https://github.com/user-attachments/assets/8fa6da76-2c33-4df2-9f59-872e035033c4)
 
 **For Updates & More Releases:**
 
 Follow Me [@praveshagrawal](https://github.com/praveshagrawal/)
-(http://www.praveshagrawal.com/)
+(https://www.praveshagrawal.com/)
+
+Note: This project is only for learning purposes! Unlawful use of this product is strictly prohibited!
